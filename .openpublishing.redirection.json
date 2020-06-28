@@ -1,7 +1,7 @@
 {
   "redirections": [
     {
-      "source_path": "docs-exporter-test/redirect.md",
+      "source_path": "redirect.md",
       "redirect_url": "https://docs.microsoft.com/azure/architecture/vdc/networking-virtual-datacenter",
       "redirect_document_id": false
     },
